@@ -10,7 +10,7 @@ Designed to be **easy to use** and **customizable** to fit your style.
 
 # 🎉 Simplify Your Tasks, Amplify Your Life.!
 
-👉 [Live Demo](https://my-task-manager-react.netlify.app/)
+👉 [Live Demo] (Loading)
 
 ---
 
