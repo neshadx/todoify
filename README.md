@@ -1,31 +1,60 @@
-📝 Task Manager React
-Welcome to Life Boy! 🎉
-A simple and lightweight task management app built with React.
+# 🚀 Task Manager React
 
-👉 Live Demo ()
+A simple, lightweight task management application built with **React**.
 
-Getting Started
-This project was bootstrapped with Create React App.
+This task manager lets you easily **create**, **edit**, **delete**, and **complete** tasks.  
+You can also **filter tasks by category** or **search by keyword** to quickly find what you need.  
+Designed to be **easy to use** and **customizable** to fit your style.
 
-In the project directory, just run:
+---
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+# 🎉 Simplify Your Tasks, Amplify Your Life.!
 
-The page will reload automatically when you make changes.
+👉 [Live Demo](https://my-task-manager-react.netlify.app/)
 
-Usage
-Add a task by typing in the input field and pressing Enter or clicking the Add button.
+---
 
-Mark a task as complete by checking the box.
 
-Delete a task by clicking the X button.
+## Available Scripts
 
-Search and filter tasks easily.
+In the project directory, you can run:
 
-Technologies Used
-React
-CSS
+### `npm start`
 
-Happy Task Managing! 🚀
+- Runs the app in development mode.  
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- The page will reload automatically when you make changes.
+- You may also see lint errors in the console.
+
+---
+
+# 📚 Usage
+
+- Type a task into the input field and press **Enter** or click the **Add** button.
+- The task will be added to the list immediately.
+- Click the **checkbox** next to a task to mark it as **complete**.
+- Click the **X button** to **delete** a task.
+- Use the **search bar** to find tasks easily.
+- (Optional) Filter tasks by category if implemented.
+
+---
+
+# 🛠️ Built With
+
+- **React**
+- **CSS**
+
+---
+
+# 🤝 Contributing
+
+If you'd like to contribute:
+
+- Feel free to **submit a pull request**.
+- Make sure your code follows the existing **coding style**.
+- Include **tests** if possible for new features.
+
+---
+
+Thanks for checking out **Code Artisan**! 🚀  
+**Happy Task Managing!** ✨
